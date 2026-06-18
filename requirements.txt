@@ -5,3 +5,6 @@ plotly==6.1.2
 matplotlib==3.10.0
 wordcloud==1.9.4
 vaderSentiment==3.3.2
+streamlit
+google-play-scraper
+python==3.11
